@@ -33,5 +33,10 @@ p {
 
 img {
 
-    margin: 1em 0em 0em 2em;
+    margin: 1em 4em 0em 4em;
+}
+
+.fright {
+
+    float: right;
 }
