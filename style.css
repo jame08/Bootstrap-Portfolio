@@ -6,37 +6,44 @@ body  {
 .contenido {
 
     margin-top: 100px;
+    float: left;
+    width: 60%;
+    
 
-    margin-left: 0 auto;
-    margin-right: 0 auto;
-}
-
-.fixed-top {
-
-    background-color: red;
 }
 
 .contentcolor {
 
-    background-color: gray;
+    background-color: white;
 
 
 }
 
-p {
+
+.para {
     margin: 1em 1em 0em 1em;
     padding: 0em 1em 0em 1em;
 
     font-size: 1rem;
+    float: right;
 
 }
 
 img {
-
-    margin: 1em 4em 0em 4em;
+    float: left;
+    margin: 1em 1em 0em 1em;
+    width: 25vh;
 }
 
 .fright {
 
     float: right;
+}
+
+
+.linea {
+
+margin-left: 20px;
+
+
 }
