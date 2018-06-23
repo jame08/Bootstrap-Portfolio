@@ -8,6 +8,7 @@ body  {
     margin-top: 100px;
     float: left;
     width: 60%;
+    margin-left: 50px;
     
 
 }
@@ -15,35 +16,14 @@ body  {
 .contentcolor {
 
     background-color: white;
-
-
 }
 
+.mar {
 
-.para {
-    margin: 1em 1em 0em 1em;
-    padding: 0em 1em 0em 1em;
-
-    font-size: 1rem;
-    float: right;
-
+    padding-left: 38px;
 }
 
-img {
-    float: left;
-    margin: 1em 1em 0em 1em;
-    width: 25vh;
-}
+h1 {
 
-.fright {
-
-    float: right;
-}
-
-
-.linea {
-
-margin-left: 20px;
-
-
+    margin-left: 10px;
 }
