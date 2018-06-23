@@ -6,24 +6,17 @@ body  {
 .contenido {
 
     margin-top: 100px;
-    float: left;
-    width: 60%;
-    margin-left: 50px;
-    
+    margin-left: 30px;
+    width: 84%;
 
-}
-
-.contentcolor {
-
-    background-color: white;
 }
 
 .mar {
 
-    padding-left: 38px;
+    margin-left: 10px;
 }
 
-h1 {
+.foot {
 
-    margin-left: 10px;
+    background-color: white;
 }
