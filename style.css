@@ -15,7 +15,29 @@ body  {
      margin-left: 10px;
 }
 
+.rowm {
+
+margin-bottom: 10px;
+margin-left: 15px;
+}
+
 .foot {
 
     background-color: white;
+}
+
+.para {
+
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    right:50%;
+    bottom: 10%;
+    transform: translate(-50%, -50%);
+    background: #48D1CC;
+    font-size: 14px;
+    text-align: center;
+    width: 13rem;
+    height:1.8rem ;
+    
 }
